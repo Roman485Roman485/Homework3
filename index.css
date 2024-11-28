@@ -1,0 +1,64 @@
+table {
+	border: solid;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 60%;
+	border-collapse: collapse;
+	background-color: royalblue;
+	width: 40%;
+}
+caption {
+	font-weight: bold;
+	font-size: 200%;
+	color: rgba(212, 191, 0, 0.897);
+}
+tr {
+	font-weight: bold;
+	color: yellow;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	font-family: 'Times New Roman', Helvetica, sans-serif;
+	font-size: 18px;
+}
+marquee {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgba(247, 222, 4, 0.87);
+	color: rgb(65, 65, 65);
+}
+.Cap {
+	font-weight: bold;
+	width: 200px;
+}
+
+.line {
+	border-bottom: 5px solid rgb(255, 208, 0);
+}
+ol {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: lighter;
+}
+p {
+	font-weight: bolder;
+	color: rgb(180, 168, 0);
+	text-align: center;
+	width: 10%;
+	font-size: 30px;
+}
+
+li {
+	font-size: 18px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.p1 {
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+}
